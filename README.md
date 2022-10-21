@@ -53,8 +53,8 @@
 </br>
 
 <div style="margin: 0 0 40px 20px">
-<img alt="Twitter" src="https://img.shields.io/twitter/follow/Leomhhann?label=Follow&style=social" />
-<img alt="Twitter" src="https://img.shields.io/github/followers/benjamin-boy?style=social" />
+<img alt="Twittetwitter" src="https://img.shields.io/twitter/follow/Leomhhann?label=Follow&style=social" />
+<img alt="github" src="https://img.shields.io/github/followers/benjamin-boy?style=social" />
 </div>
 
 <p align="center">
