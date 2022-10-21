@@ -55,8 +55,7 @@
 <div style="margin: 0 0 40px 20px">
   
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/leomhhann.svg?style=social&label=Follow%20%40leomhhann)](https://twitter.com/leomhhann)
-
-<a class="github-button" href="https://github.com/benjamin-boy" aria-label="Follow @benjamin-boy on GitHub">Follow @benjamin-boy</a>
+[![Twitter URL](https://img.shields.io/github/followers/benjamin-boy?label=Follow&style=social)](https://github.com/Benjamin-Boy)
 </div>
 
 <p align="center">
