@@ -54,7 +54,7 @@
 
 <div style="margin: 0 0 40px 20px">
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/leomhhann.svg?style=social&label=Follow%20%leomhhann)](https://twitter.com/leomhhann)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/leomhhann.svg?style=social&label=Follow%20leomhhann)](https://twitter.com/leomhhann)
 <img alt="github" src="https://img.shields.io/github/followers/benjamin-boy?style=social" />
 </div>
 
